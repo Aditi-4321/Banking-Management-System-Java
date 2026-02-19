@@ -65,7 +65,3 @@ src/
 ## 👩‍💻 Author
 Aditi Srivastava
 BCA Final Year Project
-
-
-
-## 📂 Project Structure
